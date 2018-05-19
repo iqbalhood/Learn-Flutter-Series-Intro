@@ -1,6 +1,6 @@
 # Project Title
 
-Getting Started Flutter Application. 
+Learn Flutter Series Introduction - Getting Started
 
 ## Descrtiption
 This project is a project for the introduction of darts used in mobile apps development using Flutter SDK
