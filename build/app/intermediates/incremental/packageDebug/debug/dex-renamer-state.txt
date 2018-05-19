@@ -1,0 +1,4 @@
+#Sat May 19 13:56:42 WIB 2018
+base.0=/Users/iqbalhood/Documents/FLUTTERUTOPIAN/getting_started/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
